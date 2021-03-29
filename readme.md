@@ -1,6 +1,6 @@
 # smartDot
 
-This is my first genetic algorithm based ML model made in P5. 
+This is my first genetic algorithm based ML model made in Processing. 
 This model just finds the shortest path from spawn location to the goal.
 This model uses the information gained by the previous generations and takes the best node and replicates the same and improve.
 
